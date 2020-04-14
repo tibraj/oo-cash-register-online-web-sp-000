@@ -4,7 +4,7 @@ def initialize(total = discounted)
   @total = 0
 end
   def discount
-  discounted = @total * .2
+  discounted = @total * 0.2
   discounted
   end
 end
